@@ -9,7 +9,7 @@
     ],
     "depends" : [ ],
     "provides" : {
-      "URI::Encode" : "lib/Pod/Perl5.pm6"
+      "URI::Encode" : "lib/URI/Encode.pm6"
     },
     "source-type" : "git",
     "source-url" : "git://github.com/dnmfarrell/URI-Encode.git"
